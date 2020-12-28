@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projetAndroid</string>
+
+    <string-array name="country_arrays">
+        <item>Attestation de presence</item>
+        <item>Attestation d\'inscription</item>
+        <item>Carte Etudiant</item>
+    </string-array>
+</resources>
